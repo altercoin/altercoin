@@ -1,7 +1,7 @@
 Altercoin Core integration/staging tree
 ===========================================
 
-What is Altercoin (₳ or ALTER)?
+What is Altercoin (₳, $ALTER)?
 ----------------------
 
 Altercoin is a fork of Bitcoin. For full details, as well as prebuilt binaries for Windows, Mac and Linux, please visit https://linktr.ee/altercoin.
