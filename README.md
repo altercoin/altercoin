@@ -4,7 +4,7 @@ Altercoin Core integration/staging tree
 What is Altercoin?
 ----------------------
 
-Altercoin (₳, $ALTER) is a fork of Bitcoin/Litecoin. For full details, as well as prebuilt binaries for Windows, Mac and Linux, please visit https://linktr.ee/altercoin.
+Altercoin (₳, $ALTER) is a fork of Bitcoin/Litecoin. For full details, as well as prebuilt binaries for Windows, Mac and Linux, please visit https://altercoin.info.
 
 Altercoin Core is the full node software that makes up the backbone of the Altercoin network.
 
