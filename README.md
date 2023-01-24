@@ -4,7 +4,7 @@ Altercoin Core integration/staging tree
 What is Altercoin?
 ----------------------
 
-Altercoin (₳, $ALTER) is fully-decentralized cryptocurrency and an alternative payment network. For full details, as well as prebuilt binaries for Windows, Mac and Linux, please visit Official Website https://altercoin.info.
+Altercoin (₳, $ALTER) is fully-decentralized cryptocurrency and an alternative payment network. For full details, as well as prebuilt binaries for Windows, Mac and Linux, please visit [releases](https://github.com/altercoin/altercoin/releases).
 
 Altercoin Core is the full node software that makes up the backbone of the Altercoin network.
 
