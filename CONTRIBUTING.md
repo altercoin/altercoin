@@ -17,9 +17,7 @@ release cycle, overall merging, moderation and appointment of maintainers.
 Communication Channels
 ----------------------
 
-Most communication about Altercoin Core development happens on IRC, in the
-#altercoin-dev channel on Freenode. The easiest way to participate on IRC is
-with the web client, [webchat.freenode.net](https://webchat.freenode.net/).
+Most communication about Altercoin Core development happens in [Discussions](https://github.com/altercoin/altercoin/discussions) section.
 
 Discussion about code base improvements happens in GitHub issues and on pull
 requests.
