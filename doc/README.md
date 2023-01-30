@@ -62,7 +62,7 @@ The Altercoin repo's [root README](/README.md) contains relevant information on 
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss general Altercoin development on #altercoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=altercoin-dev.
+* Discuss general Altercoin development on #altercoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=altercoin-dev).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)
