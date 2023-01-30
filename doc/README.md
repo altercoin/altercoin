@@ -5,7 +5,7 @@ Setup
 ---------------------
 Altercoin Core is the original Altercoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Altercoin transactions, which requires approximately 22 gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download Altercoin Core, visit [altercoin.org](https://altercoin.org/).
+To download Altercoin Core, visit [altercoin.info](https://altercoin.info/).
 
 Running
 ---------------------
@@ -28,10 +28,8 @@ Drag Altercoin Core to your applications folder, and then run Altercoin Core.
 
 ### Need Help?
 
-* See the documentation at the [Altercoin Wiki](https://altercoin.info/)
+* See the documentation at the [Alter Docs](https://docs.altercoin.info/)
 for help and more information.
-* Ask for help on [#altercoin](http://webchat.freenode.net?channels=altercoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=altercoin).
-* Ask for help on the [AltercoinTalk](https://altercointalk.io/) forums, in the [Technical Support section](https://altercointalk.io/c/technical-support).
 
 Building
 ---------------------
